@@ -1,0 +1,45 @@
+@font-face {
+    font-family:"Apex";
+    src: url(apex.ttf);
+}
+
+@font-face {
+    font-family:"NoNaMe Classic 6.3";
+    src: url(NoNameClassic.otf);
+}
+
+.zagl{
+margin: 300px 300px 100px 490px;
+height:40px;
+width:300px;
+\width:404px;
+w\idth:300px;
+font-size:100px;     
+padding:10px;
+font-family: Apex;
+padding-top:2px;
+color:white;
+background-color:RGBA(0, 0, 0);
+}
+
+.produce{
+margin: 600px 300px 100px 350px;
+height:40px;
+width:800px;
+\width:404px;
+w\idth:1000px;
+font-size:40px;     
+padding:10px;
+font-family: NoNaMeClassic;
+padding-top:2px;
+color:white;
+background-color:RGBA(0, 0, 0);
+}
+
+.body{
+  background-color:RGB(0, 0, 0);
+}
+
+
+
+
